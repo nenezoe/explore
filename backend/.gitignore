@@ -1,0 +1,16 @@
+.DS_Store
+*.sw*
+bovada/*.json*
+goalstatistics/*.json*
+goalstatistics/data-files/*.json*
+goalstatistics/data-files/*.xlsx*
+recaptcha/*.json*
+sofascore/*.json*
+*~
+node_modules/
+default_build/
+my_build/
+admin_build/
+public/uploads/
+webroot/
+/workspace/

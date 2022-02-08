@@ -1,0 +1,43 @@
+.dashboard {
+    height: calc(100vh - 104px);
+}
+.dashboard-layout {
+    display: flex;
+}
+.dashboard-content {
+    padding: 60px;
+}
+.dashboard-form-container {
+    margin-top: 100px;
+}
+.sidebar-list {
+    color: #fff;
+}
+
+.sidebar-list ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.sidebar-list li {
+    padding: 10px;
+    
+}
+
+.sidebar-list a {
+text-decoration: none;
+color: #fff;
+width: 90px;
+}
+
+
+.sidebar-list .active {
+    background-color: darkblue;
+    border-right: 5px solid blue;
+}
+
+.profile-row {
+    justify-content: space-around !important;
+}
